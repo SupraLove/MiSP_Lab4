@@ -1,11 +1,3 @@
-﻿/**
-* @file modAlphaCipher.h
-* @author Галкин К.А.
-* @version 1.0.0
-* @brief Заголовочный файл для модуля Cipher
-* @date 18.12.2022
-* @copyright ИБСТ ПГУ
-*/
 #pragma once
 #include <iostream>
 #include <string>
